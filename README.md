@@ -1,4 +1,4 @@
-# Názov: ipk-scan
+# Názov: ipk-scan (školský projekt)
 
 ## Aplikácia testuje stav zadaných portov na zadanej adrese. Stavy portov mozu byt open, closed a filtered pre TCP a open a closed pre UDP.
 
