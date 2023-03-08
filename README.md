@@ -1,6 +1,6 @@
-#Názov: ipk-scan
+# Názov: ipk-scan
 
-##Aplikácia testuje stav zadaných portov na zadanej adrese. Stavy portov mozu byt open, closed a filtered pre TCP a open a closed pre UDP.
+## Aplikácia testuje stav zadaných portov na zadanej adrese. Stavy portov mozu byt open, closed a filtered pre TCP a open a closed pre UDP.
 
 Obmedzenie:
 Aplikácia nepodporuje prepínač -i pre výber sieťového rozhrania. prepínač síce akceptovaný bude, dokonca bude tento výber zobrazený vo výpise z aplikácie ale pre
